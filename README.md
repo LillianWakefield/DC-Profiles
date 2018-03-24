@@ -1,5 +1,15 @@
-# EDIT ME
+Project Title
+DC Profiles
 
-Write a description of what the DC Profiles app is. Here's a good resource for how to format a Github Readme:
+Getting Started
+This website it designed to connect DigitalCrafts' employee network and students. Students can upload career assets to be viewed by employers. Employers can search student profiles and initiate the interview process directly from the portal. 
 
-https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+em
+
+Built With
+HTML5
+CSS3
+Bootstrap4
+
+Authors
+Lillian Wakefield
